@@ -1,0 +1,7 @@
+numpy
+opencv-python
+shapely
+ifcopenshell
+bpy
+streamlit
+python-dotenv
